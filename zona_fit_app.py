@@ -1,3 +1,4 @@
+#Aplicación para gestionar clientes de un gimnasio
 from funciones import (
     agregar_cliente,
     eliminar_cliente,
